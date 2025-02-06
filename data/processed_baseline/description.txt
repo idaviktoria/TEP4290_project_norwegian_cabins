@@ -1,0 +1,2 @@
+This folder should contain all the data for your baseline scenario in its cleaned form.
+By default, each file in here should have a corresponding processing file in the tep4290_group_XX folder.
